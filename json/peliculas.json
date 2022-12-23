@@ -1,0 +1,68 @@
+{
+    "peliculas":[
+        {
+            "id" : 1,
+            "caratula" : "https://pics.filmaffinity.com/el_secreto_de_sus_ojos-483213496-large.jpg",
+            "titulo" : "El secreto de sus ojos",
+            "resumen" : "Benjamín Espósito es oficial de un Juzgado de Instrucción de Buenos Aires recién retirado. Obsesionado por un brutal asesinato ocurrido veinticinco años antes, en 1974, decide escribir una novela sobre el caso, del cual fue testigo y protagonista. Reviviendo el pasado, viene también a su memoria el recuerdo de una mujer, a quien ha amado en silencio durante todos esos años.",
+            "genero" : "Thriller. Intriga. Drama | Años 70. Crimen. Dictadura argentina. Policíaco",
+            "director" : "Juan José Campanella"
+        },
+        {
+            "id" : 2,
+            "caratula" : "https://pics.filmaffinity.com/el_hijo_de_la_novia-570644260-large.jpg",
+            "titulo" : "El hijo de la novia",
+            "resumen" : "Rafael dedica 24 horas al día a su restaurante, está divorciado, ve muy poco a su hija, no tiene amigos y elude comprometerse con su novia. Además, desde hace mucho tiempo no visita a su madre, internada en un geriátrico porque sufre el mal de Alzheimer. Una serie de acontecimientos inesperados le obligan a replantearse su vida. Entre ellos, la intención que tiene su padre de cumplir el viejo sueño de su madre: casarse por la Iglesia.",
+            "genero" : "Drama. Comedia | Alzheimer. Vejez / Madurez. Familia. Bodas. Discapacidad",
+            "director" : "Juan José Campanella"
+        },
+        {
+            "id" : 3,
+            "caratula" : "https://pics.filmaffinity.com/nueve_reinas-699348153-large.jpg",
+            "titulo" : "Nueve reinas",
+            "resumen" : "Buenos Aires. Juan y Marcos son dos estafadores de poca monta, uno joven y un veterano en el arte del timo, que casualmente se ven envueltos en un asunto que les puede hacer millonarios: tienen menos de un día para hacer una estafa que no puede fallar.",
+            "genero" : "Thriller. Intriga. Drama | Robos & Atracos. Película de culto",
+            "director" : "Fabián Bielinsky"
+        },
+        {
+            "id" : 5,
+            "caratula" : "https://pics.filmaffinity.com/elefante_blanco-134405258-large.jpg",
+            "titulo" : "Elefante blanco",
+            "resumen" : "Narra la historia de amistad de dos curas, Julián y Nicolás, que tras sobrevivir a un intento de asesinato por parte del ejército durante su trabajo en Centroamérica, se asientan en una barriada de Buenos Aires para desarrollar su apostolado y labor social. Allí conocen a Luciana, con quien lucharán codo con codo contra la corrupción, un mal endémico de la zona. Su trabajo los enfrentará con la jerarquía eclesiástica y con el poder gubernamental y policial. A pesar de todo, seguirán arriesgando sus vidas para mantener su compromiso y su lealtad con los vecinos del barrio.",
+            "genero" : "Drama | Religión. Pobreza. Amistad. Drogas. Drama social",
+            "director" : "Pablo Trapero"
+        },
+        {
+            "id" : 6,
+            "caratula" : "https://pics.filmaffinity.com/un_lugar_en_el_mundo-643443472-large.jpg",
+            "titulo" : "Un lugar en el mundo",
+            "resumen" : "Ernesto hace un viaje a la provincia argentina de San Luis, a un remoto pueblo en un valle puntano, para recordar su infancia y las circunstancias que han determinado su vida: sus padres se habían exiliado voluntariamente de Buenos Aires para vivir en una comunidad campesina. La llegada de un geólogo español, contratado por el cacique local para buscar petróleo, representa una amenaza para la forma de vida de los campesinos.",
+            "genero" : "Drama | Vida rural. Drama social",
+            "director" : "Adolfo Aristarain"
+        },
+        {
+            "id" : 7,
+            "caratula" : "https://pics.filmaffinity.com/el_ciudadano_ilustre-827601789-large.jpg",
+            "titulo" : "El ciudadano ilustre",
+            "resumen" : "Daniel Mantovani, escritor argentino galardonado con el Premio Nobel de Literatura, hace cuarenta años abandonó su pueblo y partió hacia Europa, donde triunfó escribiendo sobre su localidad natal, Salas, y sus personajes. En el pico de su carrera, el alcalde de Salas le invita para nombrarle Ciudadano Ilustre del mismo, y Montavani, contra todo pronóstico, decide cancelar su apretada agenda y aceptar la invitación. ",
+            "genero" : "Drama. Comedia | Comedia dramática. Literatura. Vida rural",
+            "director" : "Mariano Cohn, Gastón Duprat"
+        },
+        {
+            "id" : 8,
+            "caratula" : "https://pics.filmaffinity.com/la_historia_oficial-970645863-large.jpg",
+            "titulo" : "La historia oficial",
+            "resumen" : "Buenos Aires, 1983. En los últimos años de la dictadura militar argentina, una acomodada profesora de historia comienza a tomar conciencia de lo ocurrido en ese periodo. Sus sospechas sobre los oscuros asuntos de su marido y una Abuela de Plaza de Mayo que busca a su nieta son los motivos que la llevan a replantearse La Historia Oficial.",
+            "genero" : "Drama | Dictadura argentina",
+            "director" : "Luis Puenzo"
+        },
+        {
+            "id" : 9,
+            "caratula" : "https://pics.filmaffinity.com/relatos_salvajes-102488639-large.jpg",
+            "titulo" : "Relatos salvajes",
+            "resumen" : "La película consta de seis episodios que alternan la intriga, la comedia y la violencia. Sus personajes se verán empujados hacia el abismo y hacia el innegable placer de perder el control, cruzando la delgada línea que separa la civilización de la barbarie.",
+            "genero" : "Comedia. Drama | Comedia negra. Película de episodios",
+            "director" : "Damián Szifrón"
+        }
+    ]
+}
